@@ -1,13 +1,3 @@
-# Hi, I'm Rakshit 👋
+## 📊 GitHub Stats
 
-### 🚀 About Me
-- 🎓 Student and aspiring developer
-- 💻 Interested in programming and technology
-- 🌱 Currently learning Java and Data Structures
-- 🔭 Working on improving my development skills
-
-### 🛠️ Languages & Tools
-Java | Git | GitHub
-
-### 📫 Connect With Me
-Coming soon!
+![GitHub Stats](https://github-readme-stats-eight-alpha-28.vercel.app/api?username=Rakshit007-t&show_icons=true&theme=tokyonight)
