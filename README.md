@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Rakshit 👋
 
-<!--
-**Rakshit007-t/Rakshit007-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 Student and aspiring developer
+- 💻 Interested in programming and technology
+- 🌱 Currently learning Java and Data Structures
+- 🔭 Working on improving my development skills
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+Java | Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me
+Coming soon!
